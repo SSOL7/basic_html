@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    background-color: blue;
+}
+
+.class {
+    color: green;
+    font-size: 30px;
+    text-align: center;
+    background-image: url("seoul.jpg");
+}
+
+#id {
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+}
+
+.col {
+    background-color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
